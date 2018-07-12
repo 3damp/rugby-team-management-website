@@ -6,3 +6,11 @@ This repository contains my Graded Unit project from College.
 - Languages used are PHP, HTML, CSS, MySQL and JavaScript.
 
 ![alt text](https://github.com/3damp/rugby-team-management-website/blob/master/_screenshots/desktop%2001.jpg)
+
+![alt text](https://github.com/3damp/rugby-team-management-website/blob/master/_screenshots/desktop%2002.jpg)
+
+![alt text](https://github.com/3damp/rugby-team-management-website/blob/master/_screenshots/mobile%2002.jpg)
+
+![alt text](https://github.com/3damp/rugby-team-management-website/blob/master/_screenshots/mobile%2003.jpg)
+
+![alt text](https://github.com/3damp/rugby-team-management-website/blob/master/_screenshots/mobile%2001.jpg)
