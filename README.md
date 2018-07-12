@@ -4,3 +4,5 @@ This repository contains my Graded Unit project from College.
 - Different roles with different privileges.
 - It allows to add members, create teams, assign players and coaches to teams, create events...
 - Languages used are PHP, HTML, CSS, MySQL and JavaScript.
+
+![alt text](https://github.com/3damp/rugby-team-management-website/blob/master/_screenshots/desktop%2001.jpg)
